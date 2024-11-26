@@ -1,4 +1,6 @@
-﻿namespace Smartwyre.DeveloperTest.Types;
+﻿using Smartwyre.DeveloperTest.Domain.Enums;
+
+namespace Smartwyre.DeveloperTest.Domain.Models;
 
 public class Rebate
 {
